@@ -1,0 +1,24 @@
+{
+  "name": "crud_biblioteca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test":"jest"
+  },
+  "keywords": [
+    "CRUD",
+    "Biblioteca",
+    "Livros"
+  ],
+  "author": "Paulo Sisti",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.16"
+  }
+}
